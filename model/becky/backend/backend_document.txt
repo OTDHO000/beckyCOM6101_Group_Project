@@ -1,0 +1,15 @@
+Backend Class object:
+
+Initialise: industry, type, district, sub_district, rent_min , rent_max
+
+industry list: 'restaurant'
+
+type list: 'RR' (word shows in user interface: General Restaurant), 'RL' (word shows in user interface: Light Refreshment Restaurant)
+
+district list: {'Kwai Tsing District' : sub_district: ['Kwai Chung', 'Tsing Yi']}, 
+                    {'Tsuen Wan District': sub_district: ['Tsuen Wan', 'Lei Muk Shue', 'Ting Kau', 'Sham Tseng', 'Ma Wan']}
+
+rent_min: 400
+
+rent_max: 50000
+
